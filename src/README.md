@@ -1,6 +1,7 @@
 # Student Tracker App - Server
 
  A basic student tracker app created with Spring Boot and MySQL
+ [To see client side codes click here.](https://github.com/Murat-Yavas/student-tracker-app-client)
 
 ### Technologies
 -   Spring Boot
